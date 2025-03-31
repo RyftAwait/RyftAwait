@@ -4,8 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Paytone+One&size=30&pause=400&color=00d1d7&center=true&random=false&width=435&lines=French+developer;18+years+old" alt="Typing SVG" width="50%" /> </a>
   <br></br>
 <pre>
-    👑 AnySearch 
-          💫 Cook • Games • Code       
+    👑 AnySearch & Lime
+               
     🖥️ Dev autodidact
 </pre>
 
