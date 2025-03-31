@@ -4,9 +4,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Paytone+One&size=30&pause=400&color=F74949&center=true&random=false&width=435&lines=French+developer;18+years+old;Student+at+Epitech" alt="Typing SVG" width="50%" /> </a>
   <br></br>
 <pre>
-    👑 Utils 
-          💫 Music • Games • Code       
-    🖥️ Epitech Student
+    👑 AnySearch 
+          💫 Cook • Games • Code       
+    🖥️ Dev autodidact
 </pre>
 
   <a href="https://wakatime.com/@e16f8dc4-b56f-49c4-8545-e57b81a03503">
