@@ -9,8 +9,8 @@
     🖥️ Dev autodidact
 </pre>
 
-  <a href="https://wakatime.com/@e16f8dc4-b56f-49c4-8545-e57b81a03503">
-    <img src="https://wakatime.com/badge/user/e16f8dc4-b56f-49c4-8545-e57b81a03503.svg" alt="Total time coded since Sep 24 2023" />
+  <a href="https://wakatime.com/@fffde03c-1bee-414f-946f-9377ed6bb5d2">
+    <img src="https://wakatime.com/badge/user/fffde03c-1bee-414f-946f-9377ed6bb5d2.svg" alt="Total time coded since Sep 24 2023" />
   </a> 
   <img src="https://komarev.com/ghpvc/?username=3d3n-pyc" alt="Total views since Apr 18 2024" />
 
